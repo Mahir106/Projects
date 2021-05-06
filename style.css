@@ -1,0 +1,19 @@
+img{
+    height: 300px;
+    width: 400px;
+    border: solid;
+    border-color: blue;
+}
+
+span{
+    margin: 20px;
+}
+
+body{
+    text-align: center;
+    background-color: orange;
+}
+
+h1{
+    color: green;
+}
